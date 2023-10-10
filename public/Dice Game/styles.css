@@ -1,9 +1,3 @@
-.header {
-  background-color:#25283D;
-  border-bottom: #8F3985 solid 5px;
-  margin-bottom: 2%;
-}
-
 .pagetitle {
   width: 70%;
   margin: auto;
@@ -76,13 +70,4 @@ p.abouttext {
   font-family: "Raleway";
   font-size: 25px;
   color: #20292F;
-}
-
-footer {
- background-color: #25283D;
- width: 100%;
- height: 200px;
- margin-top: 5%;
- border-top: #8F3985 solid 5px;
-
 }

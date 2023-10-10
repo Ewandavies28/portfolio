@@ -1,14 +1,15 @@
 body {
-  text-align: center;
-  background-color: #36454F;
+  background-color: #48466D;
 }
 
-h1 {
+ h1.title{
   font-size: 5rem;
   color: #EFD9CE;
   font-family: "Raleway";
   font-weight: 600;
   text-shadow: 3px 0 #8F3985;
+  text-align: center;
+  margin-top: 5%;
 }
 
 p {
@@ -60,6 +61,7 @@ h2{
 
 .set {
   margin: 3% auto;
+  text-align: center;
 }
 
 .game-over {
@@ -94,20 +96,6 @@ h2{
   background-color: white;
 }
 
-.nav-item :hover{
-  background-color: #07BEB8;
-  color: #8F3985;
-}
-
-.nav-item {
-  font-family: 'Raleway';
-}
-
-.header {
-  background-color: #25283D;
-  margin-bottom: 50px;
-}
-
 .about {
   width: 100%;
   background-color: #f9f9f9;
@@ -136,12 +124,4 @@ p.abouttext {
   color: #20292F;
 }
 
-footer {
-  background-color: #25283D;
-  width: 100%;
-  height: 200px;
-  margin-top: 5%;
-  border-top: #8F3985 solid 5px;
 
- }
- 
