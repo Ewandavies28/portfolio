@@ -1,0 +1,85 @@
+.pagetitle {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+h1.maintitle {
+   font-size: 8rem;
+   font-family: 'Rye', cursive;
+   color: #98DFEA;
+   text-shadow: 2px 2px #07BEB8;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #20292F;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Rye', cursive;
+  color: #98DFEA;
+  text-shadow: 2px 2px #07BEB8;
+  font-size: 6rem;
+}
+
+p {
+  font-size: 2rem;
+  color: #98DFEA;
+  font-family: 'Rye', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.buttonrefresh{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.buttonrefresh button{
+  background-color: #07BEB8;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-family: 'Rye', cursive;;
+  box-shadow: 0px 0px 10px black;
+}
+
+.about {
+  width: 100%;
+  background-color: #f9f9f9;
+  margin-top: 10%;
+  padding-bottom: 1%;
+  border-bottom: 5px solid #8F3985;
+  border-top: 5px solid #8F3985;
+}
+
+h1.abouttitle {
+  padding-top: 1%;
+  width: 75%;
+  margin: auto;
+  font-family: 'Raleway', cursive;
+  font-weight: 600;
+}
+
+p.abouttext {
+  width: 75%;
+  margin: auto;
+  font-family: "Raleway";
+  font-size: 25px;
+  color: #20292F;
+}
