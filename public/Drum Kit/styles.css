@@ -2,6 +2,23 @@ body {
   background-color: #48466D;
 }
 
+.header {
+  background-color: red;
+  width: 100%;
+  text-align: center;
+  border-bottom: 5px solid white;
+}
+
+.home a {
+  text-decoration: none!important;
+  color: white;
+}
+
+.menu-item{ 
+  list-style-type: none!important;
+  padding-top: 1%;
+}
+
  h1.title{
   font-size: 5rem;
   color: #EFD9CE;
@@ -108,20 +125,25 @@ h2{
 h1.abouttitle {
   padding-top: 1%;
   width: 75%;
-  align: center;
   margin: auto;
-  font-family: 'Raleway'. cursive;
-  weight: 600;
+  font-family: 'Raleway', cursive;
+  font-weight: 600;
   
 }
 
 p.abouttext {
   width: 75%;
-  align: center;
   margin: auto;
   font-family: "Raleway";
   font-size: 25px;
   color: #20292F;
 }
 
+footer {
+  background-color: red;
+  width: 100%;
+  border-top: 5px solid white;
+  height: 200px;
+  margin-top: 5%;
+}
 
