@@ -18,3 +18,7 @@ if (randomNumber1 == randomNumber2) {
     var h2 = document.querySelector("h2");
     h2.innerHTML = 'Its a draw roll again!';
 }
+
+function refreshPage(){
+    window.location.reload();
+} 
